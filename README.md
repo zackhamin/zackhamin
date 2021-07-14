@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hello World 👋
 I am a fullstack software engineer from Manchester, UK. 
-- 🔭 I started out as a career changer. My first role was a junior mobile developer for a large UK bank. Working with Swift and Android.
+- 🔭 My first role was a junior mobile developer for a large UK bank. Working with Swift and Android.
 - 💬 I then moved into a career in full stack development utilising Javascript, React, Node, Docker and AWS. 
 - 🤔 I am currently learning more about Node and AWS, serverless applications.
 - 🌱 I also run juniordeveoper.careers - helping Junior and aspiring developers find their first and second jobs in tech!
