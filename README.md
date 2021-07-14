@@ -21,7 +21,7 @@ I am a fullstack software engineer from Manchester, UK.
 - 🌱 I also run juniordeveoper.careers - helping Junior and aspiring developers find their first and second jobs in tech!
 <br>
 ## Connect with me
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ishaqamin/)
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" (https://www.linkedin.com/in/ishaqamin/)/>]
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/12737846/zack-amin)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/digitalGuyZack)
 <br>
