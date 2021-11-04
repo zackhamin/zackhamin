@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I am a fullstack software engineer from Manchester, UK. 
 - 🔭 My first role was a junior mobile developer for a large UK bank. Working with Swift and Android.
 - 💬 I then moved into a career in full stack development utilising Javascript, React, Node, Docker and AWS. 
-- I now work as a data engineer for Holland & Barrett. 
+- ⚡ I now work as a data engineer for Holland & Barrett. 
 - 🌱 I also run juniordeveoper.careers - helping Junior and aspiring developers find their first and second jobs in tech!
 <br>
 
