@@ -18,9 +18,15 @@ I am a fullstack software engineer from Manchester, UK.
 - 🔭 My first role was a junior mobile developer for a large UK bank. Working with Swift and Android.
 - 💬 I then moved into a career in full stack development utilising Javascript, React, Node, Docker and AWS. 
 - ⚡ Then I worked as a data engineer for Holland & Barrett. 
-- 💬 Now you can find me working as a full stack engineer for Holand and Barrett, the UK's biggest health retailer working with JS, React, Node, Next, Remix and more juicy stuff!
+- 💬 Now you can find me working as a full stack engineer for Holland and Barrett, the UK's biggest health retailer working with JS, React, Node, Next, Remix and more juicy stuff!
 - 🌱 I also run juniordeveoper.careers - helping Junior and aspiring developers find their first and second jobs in tech!
 <br>
+<br>
+## Current Tech
+Javascript, React, Node, Next, Remix, Storybook, GitLab, AWS.
+<br>
+## Previous Tech
+Scala, Python, AWS, Lambdas, Redshift, EC2, S3, Athena, Kafka, Airflow, Datadog, Spark, Kotlin, Swift.
 
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ishaqamin/)
