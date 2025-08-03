@@ -14,16 +14,17 @@ Here are some ideas to get you started:
 -->
 
 ### Hello World 👋
-I am a fullstack software engineer with experience in prompt engineering. 
+I am a full-stack software engineer with experience in prompt engineering. 
 - 🔭 My first role was a junior mobile developer for a large UK bank. Working with Swift and Android.
-- 💬 I then moved into a career in full stack development utilising Javascript, React, Node, Docker and AWS. 
+- 💬 I then moved into a career in full-stack development utilising JavaScript, React, Node, Docker and AWS. 
 - ⚡ Then I worked as a data engineer for Holland & Barrett. 
-- 💬 Now you can find me working as a full stack engineer for Holland and Barrett, the UK's biggest health retailer working with JS, React, Node, Next, Remix and more juicy stuff!
-- 🌱 I also run juniordeveoper.careers - helping Junior and aspiring developers find their first and second jobs in tech!
+- 💬 I moved from data to working as a full stack engineer for Holland and Barrett, the UK's biggest health retailer, working with TS, React, Node, Next, Remix and more juicy stuff!
+- Now I am a senior full-stack engineer leading the end-to-end development of projects from ideation to production in compliance and fintech.
+- 🌱 I also founded and run the biggest meetup for junior and aspiring software engineers in the U.K!
 <br>
 <br>
 ## Current Tech
-Javascript, React, Node, Next, Remix, Storybook, GitLab, AWS.
+Typescript, Go, React, React Native, Remix, Next, Node, Next, Remix, Storybook, AWS.
 <br>
 ## Previous Tech
 Scala, Python, AWS, Lambdas, Redshift, EC2, S3, Athena, Kafka, Airflow, Datadog, Spark, Kotlin, Swift.
@@ -32,12 +33,6 @@ Scala, Python, AWS, Lambdas, Redshift, EC2, S3, Athena, Kafka, Airflow, Datadog,
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ishaqamin/)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/digitalGuyZack)
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/12737846/zack-amin)
-<br>
-<br>
-
-## Connect with juniorDeveloper.careers
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/company/juniordevelopercareers/?viewAsMember=true)
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/jnrDevCareers)
 <br>
 <br>
 
